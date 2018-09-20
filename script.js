@@ -1,3 +1,3 @@
-$(document).ready(function(){
-	alert("alittleninja");
+document.addEventListener("DOMContentLoaded", function(event) { 
+  alert("alittleninja");
 });
