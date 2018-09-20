@@ -1,1 +1,3 @@
-alert("alittleninja");
+$(document).ready(function(){
+	alert("alittleninja");
+});
