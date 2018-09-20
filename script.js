@@ -1,1 +1,1 @@
-window.opener.alert("alittleninja");
+alert("alittleninja");
